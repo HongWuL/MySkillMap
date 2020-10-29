@@ -14,7 +14,7 @@
 ---
 ## java
 ### 语法
-+ 基础 ![prog](http://progressed.io/bar/28)
++ 基础 ![avatar](http://baidu.com/pic/doge.png)
 + 异常
 + 注解
 + 枚举
