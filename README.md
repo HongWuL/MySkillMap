@@ -4,18 +4,17 @@
 ## 人工智能
 ### 机器学习
 ### NLP
-
+---
 ## 算法
-
+---
 ## 计算机理论基础
 ### 计算机网络
 ### 操作系统
 ### 设计模式
-
+---
 ## java基础
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)    
-[![prog](http://progressed.io/bar/28])
+---
 ## spring技术栈
-
+---
 ## python
 
