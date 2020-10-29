@@ -13,7 +13,7 @@
 ### 设计模式
 
 ## java基础
-
+http://progressed.io/bar/28
 ## spring技术栈
 
 ## python
