@@ -14,7 +14,7 @@
 ---
 ## java
 ### 语法
-+ 基础 ![avatar](http://baidu.com/pic/doge.png)
++ 基础 
 + 异常
 + 注解
 + 枚举
